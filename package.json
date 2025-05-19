@@ -1,7 +1,7 @@
 {
-  "name": "viking-chess-server",
+  "name": "riverside-vikings-chess-server",
   "version": "1.0.0",
-  "description": "WebSocket server for Viking Chess game",
+  "description": "WebSocket server for Riverside Vikings Chess game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
