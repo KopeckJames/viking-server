@@ -1,6 +1,6 @@
 # Riverside Vikings Chess Server
 
-This is the WebSocket server for the Riverside Vikings Chess (Hnefatafl) game. It handles multiplayer game sessions, allowing players to create and join games, and synchronizes moves between players.
+This is the WebSockehjjjt server for the Riverside Vikings Chess (Hnefatafl) game. It handles multiplayer game sessions, allowing players to create and join games, and synchronizes moves between players.
 
 ## Deployment to Heroku
 
